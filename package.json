@@ -1,0 +1,6 @@
+{
+  "name": "hexo-post-to-zola",
+  "dependencies": {
+    "hexo-post-parser": "^1.2.12"
+  }
+}
